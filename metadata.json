@@ -1,0 +1,6 @@
+{
+  "name": "VocaLearn Gujarat",
+  "description": "Offline-first vocational Electronics & Hardware learning app for Std 9-12 students in Gujarat with interactive circuit diagrams, practical labs, and multilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
